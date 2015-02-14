@@ -1,0 +1,1 @@
+!function(){function este(){console.log("whitespace, eh?")}este([123,123,532])}();

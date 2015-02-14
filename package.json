@@ -1,0 +1,27 @@
+{
+  "name": "jstransformer-uglify-js",
+  "version": "0.0.0",
+  "description": "A transformer that minifies JavaScript through UglifyJS.",
+  "keywords": [
+    "jstransformer",
+    "uglify-js"
+  ],
+  "dependencies": {
+    "uglify-js": "^2.4.16"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.5"
+  },
+  "scripts": {
+    "test": "node test",
+    "coverage": "istanbul cover test",
+    "coveralls": "npm run coverage && cat ./coverage/lcov.info | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-uglify-js.git"
+  },
+  "author": "Timothy Gu <timothygu99@gmail.com>",
+  "license": "MIT"
+}
