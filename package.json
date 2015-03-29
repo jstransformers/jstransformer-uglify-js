@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-uglify-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A transformer that minifies JavaScript through UglifyJS.",
   "keywords": [
     "jstransformer",
