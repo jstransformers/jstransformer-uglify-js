@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.2: 2015-06-25
+
+- Update Boilerplate
+
 ## v0.0.2: 2015-03-29
 
 - Bump UglifyJS to 2.4.18
