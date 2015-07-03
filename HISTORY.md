@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.4: 2015-07-03
+
+- Added `.renderFile()` support
+
 ## v0.0.2: 2015-06-25
 
 - Update Boilerplate
