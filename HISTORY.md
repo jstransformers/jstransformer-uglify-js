@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.0: 2015-08-28
+
+- Update UglifyJS to prevent potential security exploits
+- Stable release; code unchanged from v0.0.4.
+
 ## v0.0.4: 2015-07-03
 
 - Added `.renderFile()` support
