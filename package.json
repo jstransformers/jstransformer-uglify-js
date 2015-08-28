@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-uglify-js",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "UglifyJS support for JSTransformers.",
   "keywords": [
     "jstransformer",
