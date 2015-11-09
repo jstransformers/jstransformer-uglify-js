@@ -1,9 +1,14 @@
 # Changelog
 
+## v1.1.0: 2015-08-28
+
+- Updated to `uglify-js@^2.5.0`
+- Updated Boilerplate
+
 ## v1.0.0: 2015-08-28
 
 - Update UglifyJS to prevent potential security exploits
-- Stable release; code unchanged from v0.0.4.
+- Stable release; code unchanged from v0.0.4
 
 ## v0.0.4: 2015-07-03
 
