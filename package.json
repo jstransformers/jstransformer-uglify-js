@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-uglify-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "UglifyJS support for JSTransformers.",
   "keywords": [
     "jstransformer",
@@ -10,14 +10,17 @@
     "index.js"
   ],
   "dependencies": {
-    "uglify-js": "^2.4.24"
+    "uglify-js": "^2.5.0"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "test-jstransformer",
-    "coverage": "test-jstransformer coverage"
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",
