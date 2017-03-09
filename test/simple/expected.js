@@ -1,1 +1,1 @@
-!function(){function n(n){console.log("whitespace, eh?")}n([123,123,532])}();
+!function(){!function(n){console.log("whitespace, eh?")}([123,123,532])}();

@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.0: 2017-03-09
+
+- Updated to `uglify-js@^2.8.10`
+
 ## v1.1.1: 2015-11-17
 
 - Updated to `uglify-js@^2.6.1`
