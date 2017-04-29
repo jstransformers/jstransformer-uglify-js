@@ -1,5 +1,7 @@
 # jstransformer-uglify-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-uglify-js.svg)](https://greenkeeper.io/)
+
 [UglifyJS](https://www.npmjs.com/package/uglify-js) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-uglify-js/master.svg)](https://travis-ci.org/jstransformers/jstransformer-uglify-js)
