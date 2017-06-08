@@ -1,6 +1,6 @@
 'use strict'
 
-var uglifyJS = require('uglify-js')
+const uglifyJS = require('uglify-js')
 
 exports.name = 'uglify-js'
 exports.outputFormat = 'js'
