@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var uglify = require('jstransformer')(require('jstransformer-uglify-js'));
+var uglify = require('jstransformer')(require('jstransformer-uglify-js'))
 
 uglify.render('var x = 5; var y = 6;').body
 //=> 'var x=5,y=6'
