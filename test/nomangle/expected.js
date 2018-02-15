@@ -1,1 +1,1 @@
-!function(){!function(thadsf){console.log("whitespace, eh?")}()}();
+!function(){console.log("whitespace, eh?")}();

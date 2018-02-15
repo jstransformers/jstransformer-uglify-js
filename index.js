@@ -1,19 +1,12 @@
 'use strict'
 
-const uglifyJS = require('uglify-js')
+const UglifyJS = require('uglify-js')
 
 exports.name = 'uglify-js'
 exports.outputFormat = 'js'
 exports.inputFormat = ['js']
 
 exports.render = function (str, options) {
-  options = options || {}
-  options.fromString = true
-  return uglifyJS.minify(str, options).code
-}
-
-exports.renderFile = function (file, options) {
-  options = options || {}
-  options.fromString = false
-  return uglifyJS.minify(file, options).code
+  const result = UglifyJS.minify(str, options)
+  return result.code
 }

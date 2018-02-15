@@ -1,1 +1,1 @@
-!function(){!function(n){console.log("whitespace, eh?")}()}();
+!function(){console.log("whitespace, eh?")}();
