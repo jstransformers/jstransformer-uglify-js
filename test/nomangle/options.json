@@ -1,3 +1,4 @@
 {
-  "mangle": false
+  "mangle": false,
+  "compress": false
 }
